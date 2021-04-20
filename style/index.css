@@ -179,12 +179,14 @@ footer {
   /* width: 8rem; */
   margin-bottom: 1rem;
   text-align: center;
+  width: 10rem;
 }
 
 .contactMeH3 {
   text-align: center;
   /* width: 25%; */
-  border: 1px white solid;
+  /* border: 1px white solid; */
+  width: 10rem;
   color: black;
 }
 
