@@ -166,6 +166,7 @@ footer {
   display: flex;
   flex-direction: column;
   justify-content: center;
+  align-items: center;
   align-content: space-between;
   border: 1px solid black;
 }
@@ -190,10 +191,10 @@ footer {
   color: black;
 }
 
-.boundariesDiv {
+/* .boundariesDiv {
   width: 90%;
   /* margin: auto; */
-}
+} */
 
 .thumbnails {
   width: 100%;
