@@ -201,3 +201,16 @@ footer {
   height: 100%;
   object-fit: cover;
 }
+
+.socialMediaIcons{
+  width: 2rem;
+  height: 2rem;
+
+}
+
+.divSocialMediaIcons{
+  display: flex;
+  flex-direction: row;
+  justify-content: space-around;
+  width: 10rem;
+}
