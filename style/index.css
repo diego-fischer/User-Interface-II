@@ -404,7 +404,18 @@ footer {
     width: 8rem;
   }
 
-  
+  .containerNav {
+    background-color: white;
+    
+  }
+
+  h1{
+    margin-bottom: 10%;
+  }
+
+  .projectsSection{
+    margin-bottom: 5%;
+  }
 
 
   
