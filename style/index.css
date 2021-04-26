@@ -75,8 +75,8 @@ nav {
 
 .navBtn {
   color: white;
-  padding: 0.5rem 1rem 0.5rem 1rem;
-  /* padding: 0.5% 2% 0.5% 2%; */
+  /* padding: 0.5rem 1rem 0.5rem 1rem; */
+  padding: 1% 2.5% 1% 2.5%;
 }
 
 h1 {
@@ -137,9 +137,10 @@ h2 {
   background-color: black;
   border: 1px solid white;
   color: white;
-  padding: 0.5rem 1rem 0.5rem 1rem;
+  /* padding: 0.5rem 1rem 0.5rem 1rem; */
+  padding: 1.5% 2.5% 1.5% 2.5%;
   width: 8rem;
-  height: 1.5rem;
+  /* min-height: 1.5rem; */
   font-size: 1rem;
   display: flex;
   align-items: center;
@@ -224,6 +225,7 @@ footer {
 
 .contactMeH3 {
   text-align: center;
+  margin-bottom: 1%;
   /* width: 25%; */
   /* border: 1px white solid; */
   width: 10rem;
@@ -279,6 +281,23 @@ footer {
 
   .journeyInCodingParagraph{
     font-size: 0.85rem;
+  }
+
+  .contactMeBtn{
+    font-size: 0.85rem;
+  }
+
+  .myProjectsBtn {
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    width: 6rem;
+    height: 1.2rem;
+    font-size: 0.85rem;
+  }
+
+  .navBtn {
+    color: white;
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    /* padding: 0.5% 2% 0.5% 2%; */
   }
 
  
